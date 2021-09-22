@@ -2,3 +2,7 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
 @import '~font-awesome/css/font-awesome.min.css';
+
+button, input, optgroup, select, textarea{
+  margin: 3px !important;
+}
